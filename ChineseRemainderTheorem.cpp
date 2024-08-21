@@ -31,3 +31,4 @@ int main(){
     int result=crt(a,k);
     cout << result;
 }
+
