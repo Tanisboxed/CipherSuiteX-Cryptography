@@ -25,3 +25,4 @@ int main(){
     cout <<mulIn;
     return 0;
 }
+
