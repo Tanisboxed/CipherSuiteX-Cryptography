@@ -98,7 +98,7 @@ bitset<8> SDES(bitset<8> pt, bitset<8> key1, bitset<8> key2) {
 }
 
 int main() {
-    string ptstr, key1str, key2str;
+    string ptstr, key1str, key2str; 
     cin >> ptstr;
     cin >> key1str;
     cin >> key2str;
