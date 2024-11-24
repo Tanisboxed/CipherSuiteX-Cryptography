@@ -9,7 +9,7 @@ bitset<8> IP(bitset<8> in) {
     out[5] = in[2];
     out[4] = in[0];
     out[3] = in[3];
-    out[2] = in[7]; 
+    out[2] = in[7];
     out[1] = in[4];
     out[0] = in[6];
     return out;
