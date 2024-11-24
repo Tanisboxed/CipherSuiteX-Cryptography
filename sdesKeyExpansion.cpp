@@ -14,7 +14,7 @@ string p10(string userinput){
 string p8(string userinput){
     int p8[]={6,3,7,4,8,5,10,9};
     string perm8=""; 
-    for (int i=0;i<8; ++i){
+    for (int i=0;i<8; ++i){ 
         perm8+=userinput[p8[i]-1];
     }
     return perm8;
