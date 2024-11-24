@@ -6,7 +6,7 @@ string p10(string userinput){
     int p10[]={3,5,2,7,4,10,1,9,8,6};
     string perm10="";
     for(int i=0;i<10;++i){
-        perm10+=userinput[p10[i]-1];
+        perm10+=userinput[p10[i]-1]; 
     }
     return perm10;
 } 
