@@ -18,7 +18,7 @@ string p8(string userinput){
         perm8+=userinput[p8[i]-1]; 
     }
     return perm8;
-}
+} 
 
 string splitshiftkey(string userinput,int n){
     string left=userinput.substr(0,5);
