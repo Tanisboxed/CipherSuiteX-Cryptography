@@ -9,7 +9,7 @@ string p10(string userinput){
         perm10+=userinput[p10[i]-1];
     }
     return perm10;
-}
+} 
 
 string p8(string userinput){
     int p8[]={6,3,7,4,8,5,10,9};
